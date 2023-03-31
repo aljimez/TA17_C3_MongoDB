@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6422c3c028893a01f59469ae"
+  },
+  "codigo": "1",
+  "nombre": "Intel"
+},{
+  "_id": {
+    "$oid": "6422c3c028893a01f59469af"
+  },
+  "codigo": "2",
+  "nombre": "Hawlet-Packard"
+},{
+  "_id": {
+    "$oid": "6422c3c028893a01f59469b0"
+  },
+  "codigo": "3",
+  "nombre": "Nvidia"
+},{
+  "_id": {
+    "$oid": "6422c3c028893a01f59469b1"
+  },
+  "codigo": "4",
+  "nombre": "AMD"
+}]

@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6423087428893a01f5946a7c"
+  },
+  "codigo": 1,
+  "NomApels": "Alejandro"
+},{
+  "_id": {
+    "$oid": "6423087428893a01f5946a7d"
+  },
+  "codigo": 2,
+  "NomApels": "Alejandao"
+},{
+  "_id": {
+    "$oid": "642308e328893a01f5946a7f"
+  },
+  "codigo": 3,
+  "NomApels": "Alex"
+},{
+  "_id": {
+    "$oid": "642308e328893a01f5946a80"
+  },
+  "codigo": 4,
+  "NomApels": "Enric"
+},{
+  "_id": {
+    "$oid": "642308e328893a01f5946a81"
+  },
+  "codigo": 5,
+  "NomApels": "Aleix"
+}]

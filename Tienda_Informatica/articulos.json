@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6422c65e28893a01f59469b4"
+  },
+  "codigo": 1,
+  "nombre": "Auriculares",
+  "precio": 20,
+  "fabricante": {
+    "_id": "6422c3c028893a01f59469ae",
+    "codigo": 1,
+    "nombre": "Intel"
+  }
+},{
+  "_id": {
+    "$oid": "6422c65e28893a01f59469b5"
+  },
+  "codigo": 4,
+  "nombre": "raton",
+  "precio": 10,
+  "fabricante": {
+    "_id": "6422c3c028893a01f59469b1",
+    "codigo": 4,
+    "nombre": "AMD"
+  }
+},{
+  "_id": {
+    "$oid": "6422c65e28893a01f59469b6"
+  },
+  "codigo": 3,
+  "nombre": "monitor",
+  "precio": 40,
+  "fabricante": {
+    "_id": "6422c3c028893a01f59469af",
+    "codigo": 2,
+    "nombre": "Hawlet-Packard"
+  }
+},{
+  "_id": {
+    "$oid": "6422c65e28893a01f59469b7"
+  },
+  "codigo": 4,
+  "nombre": "alfombrilla",
+  "precio": 5,
+  "fabricante": {
+    "_id": "6422c3c028893a01f59469af",
+    "codigo": 2,
+    "nombre": "Hawlet-Packard"
+  }
+}]

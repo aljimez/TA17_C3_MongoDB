@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6423131a28893a01f5946abb"
+  },
+  "codigo": 1,
+  "nombre": "Quimica"
+},{
+  "_id": {
+    "$oid": "6423131a28893a01f5946abc"
+  },
+  "codigo": 2,
+  "nombre": "fisica"
+},{
+  "_id": {
+    "$oid": "6423131a28893a01f5946abd"
+  },
+  "codigo": 3,
+  "nombre": "Sociales"
+},{
+  "_id": {
+    "$oid": "6423131a28893a01f5946abe"
+  },
+  "codigo": 4,
+  "nombre": "biologia"
+},{
+  "_id": {
+    "$oid": "6423131a28893a01f5946abf"
+  },
+  "codigo": 5,
+  "nombre": "Geologia"
+}]

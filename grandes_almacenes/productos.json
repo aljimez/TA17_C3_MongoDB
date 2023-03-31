@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "64230b0f28893a01f5946a8f"
+  },
+  "codigo": 1,
+  "nombre": "Pilas",
+  "precio": 50
+},{
+  "_id": {
+    "$oid": "64230b0f28893a01f5946a90"
+  },
+  "codigo": 2,
+  "nombre": "mechero",
+  "precio": 100
+},{
+  "_id": {
+    "$oid": "64230b0f28893a01f5946a91"
+  },
+  "codigo": 3,
+  "nombre": "pegamento",
+  "precio": 30
+},{
+  "_id": {
+    "$oid": "64230b0f28893a01f5946a92"
+  },
+  "codigo": 4,
+  "nombre": "goma de borrar",
+  "precio": 20
+},{
+  "_id": {
+    "$oid": "64230b0f28893a01f5946a93"
+  },
+  "codigo": 5,
+  "nombre": "movil",
+  "precio": 3
+}]

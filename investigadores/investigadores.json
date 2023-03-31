@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "64230d4928893a01f5946a9b"
+  },
+  "DNI": "26278383H",
+  "NomApels": "Alejandro",
+  "facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abd"
+    },
+    "codigo": 3,
+    "nombre": "Sociales"
+  }
+},{
+  "_id": {
+    "$oid": "642704788ebfca1d8b667d00"
+  },
+  "DNI": "3367384849H",
+  "NomApels": "Elena",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abf"
+    },
+    "codigo": 5,
+    "nombre": "Geologia"
+  }
+},{
+  "_id": {
+    "$oid": "642704788ebfca1d8b667d01"
+  },
+  "DNI": "167189339J",
+  "NomApels": "Maria",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abd"
+    },
+    "codigo": 3,
+    "nombre": "Sociales"
+  }
+},{
+  "_id": {
+    "$oid": "642704788ebfca1d8b667d02"
+  },
+  "DNI": "26394030G",
+  "NomApels": "Alverto",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abf"
+    },
+    "codigo": 5,
+    "nombre": "Geologia"
+  }
+}]

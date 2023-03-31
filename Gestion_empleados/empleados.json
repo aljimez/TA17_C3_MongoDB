@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "6422cdff28893a01f59469e9"
+  },
+  "DNI": "46637727637Y",
+  "nombre": "Angel",
+  "apellidos": "Di Maria",
+  "departamento": {
+    "_id": {
+      "$oid": "6422cec628893a01f59469f0"
+    },
+    "codigo": 1,
+    "nombre": "RRHH",
+    "presupuesto": 1200
+  }
+},{
+  "_id": {
+    "$oid": "6422cdff28893a01f59469ea"
+  },
+  "DNI": "473203039Y",
+  "nombre": "David",
+  "apellidos": "Beckham",
+  "departamento": {
+    "_id": {
+      "$oid": "6422cec628893a01f59469f1"
+    },
+    "codigo": 2,
+    "nombre": "IT",
+    "presupuesto": 1200000
+  }
+},{
+  "_id": {
+    "$oid": "6422cdff28893a01f59469eb"
+  },
+  "DNI": "5527363U",
+  "nombre": "Zinedine",
+  "apellidos": "Zidane",
+  "departamento": {
+    "_id": {
+      "$oid": "6422cec628893a01f59469f2"
+    },
+    "codigo": 3,
+    "nombre": "Ventas",
+    "presupuesto": 12342
+  }
+},{
+  "_id": {
+    "$oid": "6422cdff28893a01f59469ec"
+  },
+  "DNI": "28238793T",
+  "nombre": "Roberto",
+  "apellidos": "Carlos",
+  "departameto": {
+    "_id": {
+      "$oid": "6422cec628893a01f59469f1"
+    },
+    "codigo": 2,
+    "nombre": "IT",
+    "presupuesto": 1200000
+  }
+},{
+  "_id": {
+    "$oid": "6422cdff28893a01f59469ed"
+  },
+  "DNI": "272837899Y",
+  "nombre": "Paco",
+  "apellidos": "Gento",
+  "departamento": {
+    "_id": {
+      "$oid": "6422cec628893a01f59469f0"
+    },
+    "codigo": 1,
+    "nombre": "RRHH",
+    "presupuesto": 1200
+  }
+}]

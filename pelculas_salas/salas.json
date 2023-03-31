@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6422f1df28893a01f5946a18"
+  },
+  "codigo": 1,
+  "nombre": "Sala1",
+  "pelicula": {
+    "_id": "6422eedc28893a01f5946a11",
+    "nombre": "Lo que el viento se llevo",
+    "calificacionedad": 17
+  }
+},{
+  "_id": {
+    "$oid": "6422f1df28893a01f5946a19"
+  },
+  "codigo": 2,
+  "nombre": "Sala2",
+  "pelicula": {
+    "_id": "6422eedc28893a01f5946a13",
+    "nombre": "La teoria del todo",
+    "calificacionedad": 20
+  }
+},{
+  "_id": {
+    "$oid": "6422f1df28893a01f5946a1a"
+  },
+  "codigo": 3,
+  "nombre": "Sala3",
+  "pelicula": {
+    "_id": "6422eedc28893a01f5946a14",
+    "codigo": 4,
+    "nombre": "Diario de nhoa",
+    "calificacionedad": 10
+  }
+}]

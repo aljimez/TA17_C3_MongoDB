@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6422eedc28893a01f5946a11"
+  },
+  "codigo": 1,
+  "nombre": "Lo que el viento se llevo",
+  "calificacionedad": 17
+},{
+  "_id": {
+    "$oid": "6422eedc28893a01f5946a12"
+  },
+  "codigo": 2,
+  "nombre": "3metros sobre el cielo",
+  "calificacionedad": 16
+},{
+  "_id": {
+    "$oid": "6422eedc28893a01f5946a13"
+  },
+  "codigo": 3,
+  "nombre": "La teoria del todo",
+  "calificacionedad": 20
+},{
+  "_id": {
+    "$oid": "6422eedc28893a01f5946a14"
+  },
+  "codigo": 4,
+  "nombre": "EL diario de nhoa",
+  "calificacionedad": 10
+},{
+  "_id": {
+    "$oid": "6422eedc28893a01f5946a15"
+  },
+  "codigo": 5,
+  "nombre": "Yo,El baquilla",
+  "calificacionedad": 5
+}]

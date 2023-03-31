@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "6423057d28893a01f5946a5e"
+  },
+  "codigo": 1,
+  "nombre": "bujia"
+},{
+  "_id": {
+    "$oid": "6423057d28893a01f5946a5f"
+  },
+  "codigo": 2,
+  "nombre": "pastilla de freno"
+},{
+  "_id": {
+    "$oid": "6423057d28893a01f5946a60"
+  },
+  "codigo": 3,
+  "nombre": "embrague"
+},{
+  "_id": {
+    "$oid": "6423057d28893a01f5946a61"
+  },
+  "codigo": 4,
+  "nombre": "luneta termica"
+},{
+  "_id": {
+    "$oid": "6423057d28893a01f5946a62"
+  },
+  "codigo": 5,
+  "nombre": "volante"
+}]

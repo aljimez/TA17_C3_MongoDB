@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6422e84428893a01f59469ff"
+  },
+  "codigo": 1,
+  "lugar": "Barcelona",
+  "capacidad": 20
+},{
+  "_id": {
+    "$oid": "6422e84428893a01f5946a00"
+  },
+  "codigo": 2,
+  "lugar": "Bilbao",
+  "capacidad": 10
+},{
+  "_id": {
+    "$oid": "6422e84428893a01f5946a01"
+  },
+  "codigo": 3,
+  "lugar": "Granada",
+  "capacidad": 25
+}]

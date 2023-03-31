@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "6423246128893a01f5946b47"
+  },
+  "cajero": {
+    "_id": {
+      "$oid": "6423087428893a01f5946a7c"
+    },
+    "codigo": 1,
+    "NomApels": "Alejandro"
+  },
+  "maquina": {
+    "_id": {
+      "$oid": "642309fe28893a01f5946a84"
+    },
+    "codigo": 1,
+    "piso": 1
+  },
+  "producto": {
+    "_id": {
+      "$oid": "64230b0f28893a01f5946a8f"
+    },
+    "codigo": 1,
+    "nombre": "Pilas",
+    "precio": 50
+  }
+},{
+  "_id": {
+    "$oid": "6423258a28893a01f5946b51"
+  },
+  "cajero": {
+    "_id": {
+      "$oid": "6423087428893a01f5946a7d"
+    },
+    "codigo": 2,
+    "NomApels": "Alejandao"
+  },
+  "maquina": {
+    "_id": {
+      "$oid": "642309fe28893a01f5946a85"
+    },
+    "codigo": 2,
+    "piso": 2
+  },
+  "producto": {
+    "_id": {
+      "$oid": "64230b0f28893a01f5946a90"
+    },
+    "codigo": 2,
+    "nombre": "mechero",
+    "precio": 100
+  }
+},{
+  "_id": {
+    "$oid": "6423276028893a01f5946b5a"
+  },
+  "cajero": {
+    "_id": {
+      "$oid": "642308e328893a01f5946a7f"
+    },
+    "codigo": 3,
+    "NomApels": "Alex"
+  },
+  "maquina": {
+    "_id": {
+      "$oid": "642309fe28893a01f5946a86"
+    },
+    "codigo": 3,
+    "piso": 3
+  },
+  "producto": {
+    "_id": {
+      "$oid": "64230b0f28893a01f5946a91"
+    },
+    "codigo": 3,
+    "nombre": "pegamento",
+    "precio": 30
+  }
+},{
+  "_id": {
+    "$oid": "6423276028893a01f5946b5b"
+  },
+  "cajero": {
+    "_id": {
+      "$oid": "642308e328893a01f5946a80"
+    },
+    "codigo": 4,
+    "NomApels": "Enric"
+  },
+  "maquina": {
+    "_id": {
+      "$oid": "642309fe28893a01f5946a87"
+    },
+    "codigo": 4,
+    "piso": 4
+  },
+  "producto": {
+    "_id": {
+      "$oid": "64230b0f28893a01f5946a92"
+    },
+    "codigo": 4,
+    "nombre": "goma de borrar",
+    "precio": 20
+  }
+},{
+  "_id": {
+    "$oid": "6423276028893a01f5946b5c"
+  },
+  "cajero": {
+    "_id": {
+      "$oid": "642308e328893a01f5946a81"
+    },
+    "codigo": 5,
+    "NomApels": "Aleix"
+  },
+  "maquina": {
+    "_id": {
+      "$oid": "642309fe28893a01f5946a88"
+    },
+    "codigo": 5,
+    "piso": 5
+  },
+  "producto": {
+    "_id": {
+      "$oid": "64230b0f28893a01f5946a93"
+    },
+    "codigo": 5,
+    "nombre": "movil",
+    "precio": 3
+  }
+}]

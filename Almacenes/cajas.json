@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "6422e9f528893a01f5946a04"
+  },
+  "numreferencia": 1234454,
+  "contenido": "mandos",
+  "valor": 20,
+  "almacen": {
+    "_id": {
+      "$oid": "6422e84428893a01f59469ff"
+    },
+    "codigo": 1,
+    "lugar": "Barcelona",
+    "capacidad": 20
+  }
+},{
+  "_id": {
+    "$oid": "6422e9f528893a01f5946a05"
+  },
+  "numreferencia": 1818928,
+  "contenido": "carteles",
+  "valor": 15,
+  "almacen": {
+    "_id": {
+      "$oid": "6422e84428893a01f5946a00"
+    },
+    "codigo": 2,
+    "lugar": "Bilbao",
+    "capacidad": 10
+  }
+},{
+  "_id": {
+    "$oid": "6422e9f528893a01f5946a06"
+  },
+  "numreferencia": 333942,
+  "contenido": "ratones",
+  "valores": 30,
+  "almacen": {
+    "_id": {
+      "$oid": "6422e84428893a01f5946a01"
+    },
+    "codigo": 3,
+    "lugar": "Granada",
+    "capacidad": 25
+  }
+},{
+  "_id": {
+    "$oid": "6422ea7128893a01f5946a0c"
+  },
+  "numreferencia": 22344,
+  "contenido": "espejos",
+  "valor": 5,
+  "almacen": {
+    "_id": {
+      "$oid": "6422e84428893a01f5946a01"
+    },
+    "codigo": 3,
+    "lugar": "Granada",
+    "capacidad": 25
+  }
+}]

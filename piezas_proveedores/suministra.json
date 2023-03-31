@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "6423063128893a01f5946a65"
+  },
+  "CodigoPieza": {
+    "_id": {
+      "$oid": "6423057d28893a01f5946a5e"
+    },
+    "codigo": 1,
+    "nombre": "bujia"
+  },
+  "IdProveedor": {
+    "_id": {
+      "$oid": "6423074728893a01f5946a72"
+    },
+    "Id": 1,
+    "nombre": "audi"
+  },
+  "precio": 20
+},{
+  "_id": {
+    "$oid": "6423063128893a01f5946a66"
+  },
+  "CodigoPieza": {
+    "_id": {
+      "$oid": "6423057d28893a01f5946a5f"
+    },
+    "codigo": 2,
+    "nombre": "pastilla de freno"
+  },
+  "IdProveedor": {
+    "_id": {
+      "$oid": "6423074728893a01f5946a73"
+    },
+    "Id": 2,
+    "nombre": "audi"
+  },
+  "precio": 10
+},{
+  "_id": {
+    "$oid": "6423063128893a01f5946a67"
+  },
+  "CodigoPieza": {
+    "_id": {
+      "$oid": "6423057d28893a01f5946a60"
+    },
+    "codigo": 3,
+    "nombre": "embrague"
+  },
+  "IdProveedor": {
+    "_id": {
+      "$oid": "6423074728893a01f5946a74"
+    },
+    "Id": 3,
+    "nombre": "ford"
+  },
+  "precio": 11
+},{
+  "_id": {
+    "$oid": "642306c028893a01f5946a6b"
+  },
+  "CodigoPieza": {
+    "_id": {
+      "$oid": "6423057d28893a01f5946a61"
+    },
+    "codigo": 4,
+    "nombre": "luneta termica"
+  },
+  "IdProveedor": {
+    "_id": {
+      "$oid": "6423074728893a01f5946a75"
+    },
+    "Id": 4,
+    "nombre": "audi"
+  },
+  "precio": 45
+},{
+  "_id": {
+    "$oid": "642306c028893a01f5946a6c"
+  },
+  "CodigoPieza": {
+    "_id": {
+      "$oid": "6423057d28893a01f5946a62"
+    },
+    "codigo": 5,
+    "nombre": "volante"
+  },
+  "IdProveedor": {
+    "_id": {
+      "$oid": "6423074728893a01f5946a76"
+    },
+    "Id": 5,
+    "nombre": "mercedes"
+  },
+  "precio": 3
+}]

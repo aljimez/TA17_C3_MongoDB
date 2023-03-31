@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "6422fe9e28893a01f5946a4e"
+  },
+  "DNI": "1818283883G",
+  "NomApels": "Silvestre",
+  "DNIJefe": {
+    "_id": {
+      "$oid": "6423010428893a01f5946a51"
+    },
+    "DNI": "22893947G",
+    "NomApels": "Coppola",
+    "DNIJefe": "2283947H",
+    "Despacho": {
+      "_id": {
+        "$oid": "6423046c28893a01f5946a58"
+      },
+      "numero": 3,
+      "capacidad": 30
+    }
+  },
+  "Despacho": {
+    "_id": {
+      "$oid": "6423046c28893a01f5946a58"
+    },
+    "numero": 3,
+    "capacidad": 30
+  }
+},{
+  "_id": {
+    "$oid": "6422fe9e28893a01f5946a4f"
+  },
+  "DNI": "33839497E",
+  "NomApels": "Bus Bunny",
+  "DNIJefe": {
+    "_id": {
+      "$oid": "6423010428893a01f5946a51"
+    },
+    "DNI": "22893947G",
+    "NomApels": "Coppola",
+    "DNIJefe": "2283947H",
+    "Despacho": {
+      "_id": {
+        "$oid": "6423046c28893a01f5946a58"
+      },
+      "numero": 3,
+      "capacidad": 30
+    }
+  },
+  "Despacho": {
+    "_id": {
+      "$oid": "6423046c28893a01f5946a57"
+    },
+    "numero": 2,
+    "capacidad": 10
+  }
+},{
+  "_id": {
+    "$oid": "6423010428893a01f5946a51"
+  },
+  "DNI": "22893947G",
+  "NomApels": "Coppola",
+  "DNIJefe": {
+    "_id": {
+      "$oid": "6423010428893a01f5946a51"
+    },
+    "DNI": "22893947G",
+    "NomApels": "Coppola",
+    "DNIJefe": "2283947H",
+    "Despacho": {
+      "_id": {
+        "$oid": "6423046c28893a01f5946a58"
+      },
+      "numero": 3,
+      "capacidad": 30
+    }
+  },
+  "Despacho": {
+    "_id": {
+      "$oid": "6423046c28893a01f5946a58"
+    },
+    "numero": 3,
+    "capacidad": 30
+  }
+},{
+  "_id": {
+    "$oid": "6423015128893a01f5946a53"
+  },
+  "DNI": "67364433J",
+  "NomApels": "Ana",
+  "DNIJefe": {
+    "_id": {
+      "$oid": "6423010428893a01f5946a51"
+    },
+    "DNI": "22893947G",
+    "NomApels": "Coppola",
+    "DNIJefe": "2283947H",
+    "Despacho": {
+      "_id": {
+        "$oid": "6423046c28893a01f5946a58"
+      },
+      "numero": 3,
+      "capacidad": 30
+    }
+  },
+  "Despacho": {
+    "_id": {
+      "$oid": "6423046c28893a01f5946a57"
+    },
+    "numero": 2,
+    "capacidad": 10
+  }
+}]

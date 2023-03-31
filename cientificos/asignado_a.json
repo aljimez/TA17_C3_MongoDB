@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "6426ff0ae8676fdd810f1893"
+  },
+  "cientifico": {
+    "_id": {
+      "$oid": "6426fcc2e8676fdd810f1886"
+    },
+    "DNI": "1718293G",
+    "NomApels": "Alejandro"
+  },
+  "proyecto": {
+    "_id": {
+      "$oid": "6426fc26e8676fdd810f187f"
+    },
+    "ID": "299847448",
+    "Nombre": "Investigacion Genetica",
+    "Horas": 44
+  }
+},{
+  "_id": {
+    "$oid": "6426ff79e8676fdd810f18a0"
+  },
+  "cientifico": {
+    "_id": {
+      "$oid": "6426fcc2e8676fdd810f1887"
+    },
+    "DNI": "7883004H",
+    "NomApels": "Maria"
+  },
+  "proyecto": {
+    "_id": {
+      "$oid": "6426fc26e8676fdd810f1880"
+    },
+    "ID": "379055",
+    "Nombre": "Investigacion Espacial",
+    "Horas": 30
+  }
+},{
+  "_id": {
+    "$oid": "6426ffc6e8676fdd810f18a7"
+  },
+  "cientifico": {
+    "_id": {
+      "$oid": "6426fcc2e8676fdd810f1888"
+    },
+    "DNI": "1718239G",
+    "NomApels": "Juana"
+  },
+  "proyecto": {
+    "_id": {
+      "$oid": "6426fc26e8676fdd810f1881"
+    },
+    "ID": "26389404",
+    "Nombre": "Investigacion Biologica",
+    "Horas": 50
+  }
+}]

@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6427058a8ebfca1d8b667d0d"
+  },
+  "NumSerie": 27819,
+  "Nombre": "Gen2",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abc"
+    },
+    "codigo": 2,
+    "nombre": "fisica"
+  }
+},{
+  "_id": {
+    "$oid": "6427058a8ebfca1d8b667d0e"
+  },
+  "NumSerie": 352672,
+  "Nombre": "Inv1",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abe"
+    },
+    "codigo": 4,
+    "nombre": "biologia"
+  }
+},{
+  "_id": {
+    "$oid": "6427058a8ebfca1d8b667d0f"
+  },
+  "NumSerie": 91304,
+  "Nombre": "Gen3",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abc"
+    },
+    "codigo": 2,
+    "nombre": "fisica"
+  }
+},{
+  "_id": {
+    "$oid": "6427058a8ebfca1d8b667d10"
+  },
+  "NumSerie": 16934,
+  "Nombre": "Hor2",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abf"
+    },
+    "codigo": 5,
+    "nombre": "Geologia"
+  }
+},{
+  "_id": {
+    "$oid": "642713fb8ebfca1d8b667d2b"
+  },
+  "NumSerie": 1729,
+  "Nombre": "Gen5",
+  "Facultad": {
+    "_id": {
+      "$oid": "6423131a28893a01f5946abd"
+    },
+    "codigo": 3,
+    "nombre": "Sociales"
+  }
+}]
